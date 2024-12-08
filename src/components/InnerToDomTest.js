@@ -1,3 +1,5 @@
+/** test inner data to dom attribute
+*/
 function InnerToDomTest() {
     const listData = [1, 2, 3, 4, 5];
     const basicData = "This is a basic data";

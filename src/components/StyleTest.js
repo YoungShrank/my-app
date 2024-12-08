@@ -1,4 +1,7 @@
 import "../styles/StyleTest.css"
+/**
+ * test css from other module
+ */
 function StyleTest() {
     return (
         <div className="StyleTest">
