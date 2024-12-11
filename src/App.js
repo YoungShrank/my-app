@@ -6,6 +6,7 @@ import MyActiveButton from './components/EventHandleTest';
 import DomToInnerTest from './test/DomToInnerTest';
 import ComputeDomTest from './test/ComputeDomTest';
 import OOTest from './test/OOTest';
+import StructureViewTest from './test/StructureViewTest';
 function App() {
 
   return (
@@ -18,6 +19,7 @@ function App() {
       <DomToInnerTest />
       <ComputeDomTest />
       <OOTest />
+      <StructureViewTest />
     </div>
   );
 }
